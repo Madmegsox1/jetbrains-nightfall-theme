@@ -17,8 +17,8 @@
     "foregroundAlt3": "#3c8390",
     "foregroundAlt4": "#fab28e",
 
-    "background1": "#1c1e26",
-    "background2": "#2325304d",
+    "background1": "#000000",
+    "background2": "#000000",
     "backgroundAlt": "#232530",
 
     "shadow": "#16161c",
@@ -35,9 +35,9 @@
     "accentColor2": "#b877db",
     "accentColor3": "#fab38e",
 
-    "hoverBackground": "#282a36",
-    "selectionBackground": "#2a2c38",
-    "selectionInactiveBackground": "#2a2c38",
+    "hoverBackground": "#000211",
+    "selectionBackground": "#000211",
+    "selectionInactiveBackground": "#000211",
     "selectionBackgroundAlt": "#6c6f9310",
     "selectionInactiveBackgroundAlt": "#6c6f9310",
     "selectionBackgroundAlt1": "#6c6f9320",
@@ -212,9 +212,9 @@
     "Link.pressedForeground": "#6494ed",
     "Link.visitedForeground": "#6494ed",
 
-    "List.background": "backgroundAlt",
+    "List.background": "background1",
 
-    "Menu.background": "backgroundAlt",
+    "Menu.background": "background1",
     "Menu.borderColor": "border2",
 
     "MenuItem.disabledForeground": "#abb2bf80",
